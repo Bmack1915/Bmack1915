@@ -2,11 +2,13 @@
 
 ### Welcome to my GitHub profile! Here's a bit about me:
 
+MSc graduate in Software Engineering, with prior professional experience in Medical Engineering and data analysis within the Pharmaceutical industry. Achieved a First-Class MSc through completing projects that highlight strong skills in software design, development, and modern web technologies such as React, ASP.NET, and SQL-based databases. Actively seeking an entry-level software development role to apply my expertise in a collaborative environment and continue my professional growth.
+
 🔭 I’m currently working on: Full-Stack Development using React and .NET Core  
 🌱 I’m currently learning: Web Design, Full Stack Development, Node.js  
 💬 Ask me about: Web development, API integration, .NET, and React  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ben-mackellar-7b41a7189/)  
-📝 Check out my latest CV  [CVBenMacKellar.pdf](https://github.com/user-attachments/files/16966390/CVBenMacKellar.pdf)
+📝 Check out my latest [CV](https://github.com/user-attachments/files/16966390/CVBenMacKellar.pdf)  
 ⚡ Fun fact: I love climbing, hiking, running, and swimming  
 
 ### Skills & Tools 🛠
