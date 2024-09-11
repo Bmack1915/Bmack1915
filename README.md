@@ -13,11 +13,6 @@ Please see my repositories, these are a combination of personal projects, univer
 📝 Check out my latest [CV](https://github.com/user-attachments/files/16966390/CVBenMacKellar.pdf)  
 ⚡ Fun fact: I love climbing, hiking, running, and swimming
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-
 ### Skills & Tools 🛠
 
 - **Full-Stack Web Development**: React, ASP.NET, C#, JavaScript, HTML, CSS, Tailwind CSS, Next/Material UI  
@@ -35,3 +30,8 @@ Here are some of the Udemy courses I have completed:
 - The Ultimate React Course 2024 — Jonas Schmedtmann  
 - Ultimate C# Masterclass for 2024 — Krystyna Ślusarczyk  
 - The Complete Python Bootcamp From Zero to Hero in Python — Jose Portilla
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
+![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=.net)
