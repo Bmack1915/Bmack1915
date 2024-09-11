@@ -11,7 +11,12 @@ Please see my repositories, these are a combination of personal projects, univer
 💬 Ask me about: Web development, API integration, .NET, and React  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ben-mackellar-7b41a7189/)  
 📝 Check out my latest [CV](https://github.com/user-attachments/files/16966390/CVBenMacKellar.pdf)  
-⚡ Fun fact: I love climbing, hiking, running, and swimming  
+⚡ Fun fact: I love climbing, hiking, running, and swimming
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 ### Skills & Tools 🛠
 
