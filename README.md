@@ -1,6 +1,6 @@
-Hi there 👋
+###Hi there 👋
 
-Welcome to my GitHub profile! Here's a bit about me:
+###Welcome to my GitHub profile! Here's a bit about me:
 
 🔭 I’m currently working on: Full-Stack Development using React and .NET Core  
 🌱 I’m currently learning: Web Design, Full Stack Development, Node.js  
