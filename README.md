@@ -10,7 +10,7 @@ Please see my repositories, these are a combination of personal projects, univer
 🌱 I’m currently learning: Web Design, Full Stack Development, Node.js  
 💬 Ask me about: Web development, API integration, .NET, and React  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ben-mackellar-7b41a7189/)  
-📝 Check out my latest [CV](https://github.com/user-attachments/files/17164946/BenMacKellarCVFinal.pdf)
+📝 Check out my latest [CV] [BenMacKellar.pdf](https://github.com/user-attachments/files/17803724/BenMacKellar.pdf)
 ⚡ Fun fact: I love climbing, hiking, running, and swimming
 
 ### Skills & Tools 🛠
