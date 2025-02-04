@@ -6,11 +6,11 @@ MSc graduate in Software Engineering, with prior professional experience in Medi
 
 Please see my repositories, these are a combination of personal projects, university projects and Udemy projects. Without deployment, demonstrations will be provided for these projects.
 
-🔭 I’m currently working on: Full-Stack Development using React and .NET Core  
-🌱 I’m currently learning: Web Design, Full Stack Development, Node.js  
-💬 Ask me about: Web development, API integration, .NET, and React  
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ben-mackellar-7b41a7189/)  
-📝 Check out my latest [CV] [BenMacKellar.pdf](https://github.com/user-attachments/files/17803724/BenMacKellar.pdf)
+🔭 I’m currently working on: Full-Stack Development using React and .NET Core / Node JS.
+🌱 I’m currently learning: Node.js, AWS  
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ben-mackellar-7b41a7189/) 
+📝 Check out my latest [CV] [BenMacKellarCV.pdf](https://github.com/user-attachments/files/18660124/BenMacKellarCV.pdf)
+
 ⚡ Fun fact: I love climbing, hiking, running, and swimming
 
 ### Skills & Tools 🛠
