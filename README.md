@@ -9,7 +9,7 @@ Please see my repositories, these are a combination of personal projects, univer
 🔭 I’m currently working on: Full-Stack Development using React and .NET Core / Node JS.
 🌱 I’m currently learning: Node.js, AWS  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ben-mackellar-7b41a7189/) 
-📝 Check out my latest [CV] [BenMacKellarCV.pdf](https://github.com/user-attachments/files/18660124/BenMacKellarCV.pdf)
+📝 Check out my latest [CV] [BenMacKellar_CV.pdf](https://github.com/user-attachments/files/18689641/BenMacKellar_CV.pdf)
 
 ⚡ Fun fact: I love climbing, hiking, running, and swimming
 
